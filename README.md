@@ -1,18 +1,22 @@
 # HP EliteDesk 800 G2 SFF (Skylake) - macOS 11
 
+<p align="center">
+    <img height="auto" width="auto" src="images/screenshot.png" />
+</p>
+
 OpenCore configuration for macOS Big Sur.
 
 **For educational purposes**. I don't take any responsibility for you voilating the Apple ToS and/or damaging your device.
 
 ## Specs
 
-CPU: i5 6500
-GPU: HD530
-RAM: 8GB
-Audio Codec: ALC221
-Model: HP EliteDesk 800 G2 SFF
-Mobo: Unknown / HP
-Ethernet: Intel I219LM
+- CPU: i5 6500
+- GPU: HD530
+- RAM: 8GB
+- Audio Codec: ALC221
+- Model: HP EliteDesk 800 G2 SFF
+- Mobo: Unknown / HP
+- Ethernet: Intel I219LM
 
 ## BIOS
 
