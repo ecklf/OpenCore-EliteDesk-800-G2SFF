@@ -14,7 +14,7 @@ Add Serial, SystemUUID and MLB for SMBIOS `iMac17,1`
 
 ## Base Specs
 
-- CPU: i5 6500
+- CPU: i5-6500
 - GPU: HD530
 - RAM: 8GB
 - Audio Codec: ALC221
